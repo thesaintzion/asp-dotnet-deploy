@@ -3,9 +3,9 @@
 
 1. Learn C#
 2. Learn ASP.Net
-3. Learn Restfull API dev with .net
+3. Learn RestFul API dev with .net
 4. Entity Framework & SQL
-5. Sofware architecture and unit testing
+5. Software architecture and unit testing
 6. 
 
 
